@@ -1,0 +1,17 @@
+.main{
+    text-align: center;
+}
+input{
+    height: 35px;
+    width: 20%;
+   border : 2px solid grey;
+   outline: none;
+    
+}
+button{
+    height: 35px;
+    width: 10%;
+background-color: blue;
+color: white;
+margin-left: 10px;
+}
